@@ -1,5 +1,5 @@
 <h2 align="center">
-  Desafio 02: Conceitos do Node.js ✍️ 
+  Desafio 02 Bootcamp GoStack - Conceitos do Node.js ✍️ 
 </h2>
 
 <img src="https://images8.alphacoders.com/380/thumb-1920-380534.png">
